@@ -11,19 +11,19 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 
 **Calculate and plot the housing units per year**
 
-![screenshot of SF housing per unit](images/zoomed-housing-units-by-year.png)
+![screenshot of SF housing per unit](Images/zoomed-housing-units-by-year.png)
 
 **Calculate and plot the average prices per square foot**
 
-![screenshot of SF housing per unit](images/avg-sale-px-sq-foot-gross-rent.png)
+![screenshot of plot avg price per sqft](Images/avg-sale-px-sq-foot-gross-rent.png)
 
 **Compare the average prices by neighborhood**
 
-![screenshot of SF housing per unit](images/pricing-info-by-neighborhood.png)
+![screenshot of avg price by neighborhood](Images/pricing-info-by-neighborhood.png)
 
 **Build an interactive neighborhood map**
 
-![screenshot of SF housing per unit](images/a6-4-geoviews-plot.png)
+![screenshot of SF interactivee map](Images/a6-4-geoviews-plot.png)
 
 ## Contributors
 
