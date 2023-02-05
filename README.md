@@ -23,11 +23,12 @@ The main task in this Challenge is to visualize and analyze the real-estate data
 
 **Build an interactive neighborhood map**
 
-![screenshot of SF interactivee map](Images/a6-4-geoviews-plot.png)
+![screenshot of SF interactivee map](Images/6-4-geoviews-plot.png)
 
 ## Contributors
 
 Yasmin Sharbaf
+
 Questions? Contact through linkedin:
 https://www.linkedin.com/in/yasmin-sharbaf
 
